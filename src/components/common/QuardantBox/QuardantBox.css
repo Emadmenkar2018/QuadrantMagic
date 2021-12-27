@@ -1,0 +1,106 @@
+
+
+.quardant {
+    position: relative;
+    background-color: white;
+    width: 400px;
+    height: 400px;
+    min-height: 400px;
+    max-height: 400px;
+    min-width: 400px;
+    max-width: 400px;
+    border: 2px #696969 solid;
+}
+
+.horizontal { 
+    width: 400px;
+    height: 2px;
+    background-color: #ADB9C3;
+    position: absolute;
+    margin-top:200px;
+}
+
+.vertical {
+    position: absolute;
+    height: 400px;
+    min-height: 400px;
+    max-height: 400px;
+    width: 2px;
+    min-width: 2px;
+    max-width: 2px;
+    margin-left:200px;
+    background-color: #ADB9C3; 
+}
+
+.challengers{
+    position: absolute;
+    background-color: #ADB9C3; 
+    min-width: 100px;
+    max-width: 100px;
+    margin-left: 50px;
+    color: white;
+    margin-top: 10px;
+    font-size: 14px;
+    text-align: center;
+}
+
+.challengers{
+    position: absolute;
+    background-color: #ADB9C3; 
+    min-width: 100px;
+    max-width: 100px;
+    margin-left: 50px;
+    color: white;
+    margin-top: 10px;
+    font-size: 14px;
+    text-align: center;
+}
+
+.challengers{
+    position: absolute;
+    background-color: #ADB9C3; 
+    min-width: 100px;
+    max-width: 100px;
+    margin-left: 50px;
+    color: white;
+    margin-top: 10px;
+    font-size: 14px;
+    text-align: center;
+}
+
+.leaders{
+    position: absolute;
+    background-color: #ADB9C3; 
+    min-width: 100px;
+    max-width: 100px;
+    margin-left: 250px;
+    color: white;
+    margin-top: 10px;
+    font-size: 14px;
+    text-align: center;
+}
+
+.niche{
+    position: absolute;
+    background-color: #ADB9C3; 
+    min-width: 100px;
+    max-width: 100px;
+    margin-left: 50px;
+    color: white;
+    margin-top: 365px;
+    font-size: 14px;
+    text-align: center;
+}
+
+
+.visionaries{
+    position: absolute;
+    background-color: #ADB9C3; 
+    min-width: 100px;
+    max-width: 100px;
+    margin-left: 250px;
+    color: white;
+    margin-top: 365px;
+    font-size: 14px;
+    text-align: center;
+}

@@ -1,0 +1,33 @@
+
+
+.main {
+    background-color: white;
+    height: 100vh;
+    align-items: center; 
+    display:  flex;
+    flex-wrap: wrap;
+   
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+ 
+   
+@media (max-width: 992px) {
+    .container{
+        display: block;
+    }
+
+    .addBtn{
+        margin-top: 10px;
+    }
+
+    .quardant{
+        margin: auto;
+    }
+}
+
+    
+    

@@ -1,0 +1,16 @@
+
+.dot{
+    position: absolute;
+    background-color: #3878A2;
+    width: 15px ;
+    height: 15px; 
+    border-radius: 20px;
+}
+
+.dotLabel {
+    position: 'absolute';
+    font-size: 13px;
+    font-family: 'sans-serif';
+    margin-left: 20px;
+    margin-top : 10px;
+}
